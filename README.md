@@ -1,5 +1,7 @@
 # Tienda de Componentes Electrónicos "Shaman Tools"
 
+![Shaman King Vol 32](./Shaman_King_vol32.png)
+
 Tienda dedicada a la comercialización de componentes electrónicos.
 
 > <br> **Gerente:** _Chocolove McDonnell_
