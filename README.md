@@ -1,6 +1,6 @@
 # Tienda de Componentes Electrónicos "Shaman Tools"
 
-![Shaman King Vol 32](./Shaman_King_vol32.png)
+![Shaman King Vol 32](./images/Shaman_King_vol32.png)
 
 Tienda dedicada a la comercialización de componentes electrónicos.
 
